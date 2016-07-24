@@ -1,4 +1,4 @@
-Constitution of the Computing and Security Student Association (CASSA)
+Constitution of the Computer, and Security Science Student Association (CASSSA)
 ======================================================================
 
 1. Name of the Association
